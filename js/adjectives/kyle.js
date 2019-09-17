@@ -6,5 +6,8 @@ adjectives = adjectives.concat([
     'Bitter',
     'Jazzy',
     'Kyle-like',
-    'Majestic'
+    'Majestic',
+    'smort',
+    'cool',
+    'fresh'
 ]);
